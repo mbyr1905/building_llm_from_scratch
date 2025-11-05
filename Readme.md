@@ -43,6 +43,11 @@ GPT -> Generates the new words.(attention of previous words.)
 Transformers are also used for vision tasks(computer vision), but LLm its not the case.
 Similarly LLm also can be built from CNN and RNN architecture, no transformer needed in previous cases.
 ------------------------------------------3-----------------------------------------------
+------------------------------------------4-----------------------------------------------
+GPT-2,3. Overiew of dataset and Zero and Few shot learning, Auto regresive, Emergent Behavor of LLM.
+------------------------------------------4-----------------------------------------------
+
+------------------------------------------Sources-----------------------------------------------
 Credits : Youtube Playlist Named - Building LLMs from scratch
 Research Papers: Attention is all you need. 
 Reference Book followed ->Build a Large Language Model (From Scratch) Book by Sebastian Raschka
