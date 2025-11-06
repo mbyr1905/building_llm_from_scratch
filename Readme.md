@@ -46,8 +46,28 @@ Similarly LLm also can be built from CNN and RNN architecture, no transformer ne
 ------------------------------------------4-----------------------------------------------
 GPT-2,3. Overiew of dataset and Zero and Few shot learning, Auto regresive, Emergent Behavor of LLM.
 ------------------------------------------4-----------------------------------------------
+------------------------------------------5-----------------------------------------------
+Stages of building an LLM
+->Stage1
+1)data preparation and sampling(tokenisation, vectorisation, batch size chunks preparation)
+2) Attention mechanism(Each attention is discussed)
+3) LLM architecture
+-> Stage2(Foundational model)
+1) Training loop(Epochs training, weights saving after training)
+2) Model evaluation
+3) Loading pre trained gpt 2 small weights
+->Stage3(Fine tuning)
+1)Classifier.(eg: Spam classifier)
+2) Personal Assistant.
+------------------------------------------5-----------------------------------------------
+------------------------------------------6-----------------------------------------------
+->Data preparation(Tokenisation)
+->Tokenisation
+1) Breaking large texts or sentences into tokens.
+2) Converting tokens into token ids.
 
+---tbc
+------------------------------------------6-----------------------------------------------
 ------------------------------------------Sources-----------------------------------------------
-Credits : Youtube Playlist Named - Building LLMs from scratch
+Reference Book followed -> Build a Large Language Model (From Scratch) Book by Sebastian Raschka
 Research Papers: Attention is all you need. 
-Reference Book followed ->Build a Large Language Model (From Scratch) Book by Sebastian Raschka
