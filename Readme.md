@@ -61,13 +61,15 @@ Stages of building an LLM
 2) Personal Assistant.
 ------------------------------------------5-----------------------------------------------
 ------------------------------------------6-----------------------------------------------
-->Data preparation(Tokenisation)
+->Data preparation(Tokenisation)(Code file: Tokenizer.ipynb)
 ->Tokenisation
 1) Breaking large texts or sentences into tokens.
 2) Converting tokens into token ids.
-
----tbc
+3) Encode these tokens into embeddings.
 ------------------------------------------6-----------------------------------------------
+------------------------------------------7-----------------------------------------------
+
+------------------------------------------7-----------------------------------------------
 ------------------------------------------Sources-----------------------------------------------
 Reference Book followed -> Build a Large Language Model (From Scratch) Book by Sebastian Raschka
 Research Papers: Attention is all you need. 

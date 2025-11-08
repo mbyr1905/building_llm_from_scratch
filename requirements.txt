@@ -1,0 +1,3 @@
+ipykernel
+tiktoken
+torch
