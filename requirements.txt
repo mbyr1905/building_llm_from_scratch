@@ -2,3 +2,5 @@ ipykernel
 tiktoken
 torch
 matplotlib
+tensorflow>=2.15.0
+tqdm>=4.66
